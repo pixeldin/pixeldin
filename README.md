@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend technology like cache and microservice 
 - 🌱 I’m currently learning go and summarizing past work experience
 - 💞️ I’m looking to collaborate on backend remote job
-- 📫 You can reach me with my blog: www.pixelpig.tech
+- 📫 You can reach me and know more about me with my blog: www.pixelpig.tech
 
 <!---
 pixeldin/pixeldin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
