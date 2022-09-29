@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pixeldin
-- 👀 I’m interested in backend technology
+- 👀 I’m interested in backend technology like cache and microservice 
 - 🌱 I’m currently learning go and summarizing past work experience
-- 💞️ I’m looking to collaborate on backend remote job.
+- 💞️ I’m looking to collaborate on backend remote job
 - 📫 You can reach me with my blog: www.pixelpig.tech
 
 <!---
