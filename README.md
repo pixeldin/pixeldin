@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pixeldin
+- 👋 Hi, I’m @pixeldin  :)
 - 👀 I’m interested in backend technology like cache and microservice 
-- 🌱 I’m currently learning Go/Lua and summarizing past work experience
+- 🌱 I’m currently using JavaScript/Go and summarizing past work experience for some full-stack project.
 - 📫 You can know more about me by www.pixelpig.space
 
 <!---
